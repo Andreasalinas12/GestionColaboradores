@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+**/.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# React
+node_modules/
+dist/
+.vite/
+
+# Archivos privados
+secrets.json
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+
+# Archivos temporales
+*.log
+*.tmp
